@@ -1,3 +1,0 @@
-hello world 1 file
-hello world 1 file modified
-modified in browser
